@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Pixels
+- 👀 I’m interested in making games with Unity
+- 📫 How to reach me:
+- Email: pixels7545@gmail.com or Discord: pixels75
