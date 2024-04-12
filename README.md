@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Pixels
-- 👀 I’m interested in making games with Unity
-- 📫 How to reach me:
+- I’m Pixels
+- I’m a game developer, new composer, sound designer, 3D artist and pixel artist
 - Email: pixels7545@gmail.com or Discord: pixels75
